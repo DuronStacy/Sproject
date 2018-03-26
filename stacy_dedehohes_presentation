@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<head>
+	<title> Who's that girl? </title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css_stacy_ddos.css" />
+</head>
+
+
+<body>
+	
+
+	
+	<div color="#F0FFFF">
+		<img src="https://orig00.deviantart.net/234e/f/2017/010/1/1/snow_freckles_by_rossdraws-dauxpww.jpg" style="border:solid 2px #00BFFF;" height="470" width="352" >
+			<div>
+				 <p> Je pose des questions. Beaucoup trop de questions. Et trop vite surtout ! J'envoie tout le temps des requêtes pour savoir ceci ou cela. Est-ce-que quelqu'un ici sait ce qu'est la poropoagnosie d'ailleurs ? Je demandais ça comme a, hein... </p> 
+
+				<ul>
+					<ol> Nom : Dédéhohès</ol>
+					<ol>  Prénom: Stacy </ol> 
+					<ol> Âge : 22 ans </ol>
+					<ol> Nationalitée: Roumaine </ol>
+					<ol>  Lieux de vie : Transylvanie, elle a fui les terres froides ou elle est née. </ol>
+					<ol>  Raison de la visite à Lons-le-Saunier : Rejoindre la confrérie des ACS pour satisfaire son insatiable curiosité . </ol>
+					<ol>  Emploi: Manipulatrice de trucs ratés.</ol>
+				</ul> 
+
+			 <p> Stacy est une jeune femme curieuse et un peu étrange. Elle ne parle pas beaucoup de ses origines, laissant simplement entendre qu'elle s'est réfugiée en Transylvanie pour trouver des gens comme elle. Elle est énergique, parfois un peu trop et aime toucher à tout. Elle travaille dans sa cave, qui est un peu son laboratoire secret improvisé. Elle y développe tout un tas de gadgets, plus ou moins utile, confectionne des Cosplay, dessine... </p> 
+
+				<p> <b> Ce qu'elle aime: </b> </p>
+					<ul>
+						 <li> La musique, le metal en particulier </li> 
+						 <li> Les univers Otaku / Geek </li> 
+						 <li> La boxe, nage avec monopalme, la danse orientale </li> 
+						 <li> La photo, les défilés et le cosplay </li> 
+					</ul>
+
+				<p> Ce qu'elle n'aime pas: </p>
+
+					<ul>
+						 <li> Sa mémoire de poisson rouge </li> 
+						 <li> Les gens qui font du bruit en mangeant </li> 
+						 <li> L'endurance </li> 
+						 <li> Les gens trop fermés d'esprit, bien qu'elle ait tendance à s'entendre avec tout le monde. </li> 
+					</ul>
+
+				
+					<a href="https://www.facebook.com/stacy.dedehohes.1"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTogue03YBbXNngugCeYoDC3RO3JFBOLjFvzz4W-rNsKVOy7nymOA" height="50" width="70" title="Stacy Dédéhohès Facebook " /> </a>
+
+					<a href="https://twitter.com/StaceeDedehohes"> <img src="http://inconnumag.com/wp-content/uploads/2014/05/twitter-logo.jpg" height="50" width="70"  title="Stacy Dédéhohès Twitter " /> </a>
+
+					<a href="https://social.accesscodeschool.fr/u/stacyd/user/profile/home"> <img src="http://hourofcode.onlineformapro.com/img/access-code-school-logo.png" height="50" width="90"  title="Stacy Dédéhohès ACS " /> </a>
+
+					<a href="mailto:stacy.d@codeur.online"> <img src="http://blackheartreviews.com/wp-content/uploads/1410104410_098020-black-paint-splatter-icon-social-media-logos-mail.png" height="60" width="60"  title="Adresse Mail" /> </a>
+
+					<form action="/ma-page-de-traitement" method="post">
+   						 <div>
+      						  <label for="nom">Nom :</label>
+      						  <input type="text" id="nom" />
+  						</div>
+  					    <div>
+        					<label for="courriel">Courriel :</label>
+       						<input type="email" id="courriel" />
+   						 </div>
+   						<div>
+      						<label for="message">Message :</label>
+        					<textarea id="message"></textarea>
+
+
+
+   						</div>
+					</form>
+
+			
+			</div>
+	</div>
+</body>

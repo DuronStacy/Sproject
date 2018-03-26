@@ -1,0 +1,63 @@
+.BlueB {
+padding:14px;
+margin:6px;
+background-color: #EAEAEA;
+border:2px solid #656ab0;
+-moz-border-radius:9px;
+-khtml-border-radius:9px;
+-webkit-border-radius:9px;
+border-radius:9px;
+}
+
+body {
+color:black;
+background-color:white;
+background-image:url(iced_VI_by_DanHeffer_Stock.jpg);
+}
+
+
+.grosseboite{
+display: flex;
+}
+
+
+.boxlogo{
+padding:14px;
+margin:6px;
+background-color: #EAEAEA;
+border:2px solid #656ab0;
+-moz-border-radius:9px;
+-khtml-border-radius:9px;
+-webkit-border-radius:9px;
+border-radius:9px;
+
+
+}
+
+.Box3{
+display: flex;
+}
+
+.Box4{
+padding:6px;
+margin:6px;
+}
+
+.BlueBtxt {
+padding:14px;
+margin:6px;
+background-color:#EAEAEA;
+border:2px solid #656ab0;
+-moz-border-radius:9px;
+-khtml-border-radius:9px;
+-webkit-border-radius:9px;
+border-radius:9px;
+
+
+.texte{
+width: 92%;
+border:2px solid #656ab0;
+-moz-border-radius:9px;
+}
+
+
